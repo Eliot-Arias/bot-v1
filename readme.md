@@ -1,6 +1,6 @@
-# `MD041` - First line in a file should be a top-level heading
+#LEame pls... lee esta wea, para que tu bot funcione 
 
-##pasos a seguir
+###pasos a seguir
 
 - para este bot funcione en tu pc  nececitas la version de python 3.11.2
 
