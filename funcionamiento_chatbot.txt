@@ -1,0 +1,11 @@
+El chatbot utiliza una técnica llamada Vectorización TF-IDF para comprender y responder a las preguntas de los usuarios.
+
+Cuando un usuario hace una pregunta, el chatbot realiza las siguientes acciones:
+
+Tokeniza la pregunta para dividirla en palabras individuales.
+Elimina las palabras vacías (stopwords) en español y realiza la lematización de las palabras restantes para obtener su raíz.
+Utiliza el modelo TF-IDF para convertir la pregunta en un vector numérico.
+Calcula la similitud del coseno entre la pregunta del usuario y las preguntas almacenadas previamente.
+Devuelve la respuesta más similar basada en la pregunta del usuario.
+
+El chatbot también puede saludar al usuario y responder cortésmente cuando se le agradece.
