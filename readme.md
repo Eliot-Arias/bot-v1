@@ -7,6 +7,10 @@
 - crear un entorno virtual de desarrollo, > pero no en la pc de Thalia, ahi no se puede :v - xD
  `python -m venv nombre-entorno`
   
+- despues dentro del archivo con el nombre del entorno que crearon abren la consola y escriben 
+ 
+ `.\Scripts\activate`
+
 
 - despues actualizar el pip, si es necesario con este comando
   
